@@ -1,4 +1,4 @@
-package com.company;
+package com.company.RPIS61.Solomahina.wdad;
 
 public class Main {
 
